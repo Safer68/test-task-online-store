@@ -66,4 +66,4 @@ Spring Boot. Требования:
 
 1. Склонируйте репозиторий: git clone https://github.com/Safer68/test-task-online-store
 2. Запустите склонированный код через IDE 
-3. После запуска кода заходим  https://localhost:8080/swagger-ui.
+3. После запуска кода заходим  https://localhost:8080/swagger-ui/index.html
